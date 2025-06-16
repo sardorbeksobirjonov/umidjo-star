@@ -1,0 +1,12 @@
+[
+  {
+    "question": "O‘zbekiston poytaxti qaysi shahar?",
+    "options": ["Samarqand", "Buxoro", "Toshkent", "Andijon"],
+    "answer": 2
+  },
+  {
+    "question": "Python dasturlash tilida nechta asosiy data type bor?",
+    "options": ["3", "5", "7", "4"],
+    "answer": 3
+  }
+]
